@@ -1,4 +1,4 @@
-iimport { useState } from 'react';
+import { useState } from 'react';
 import { Clock, DollarSign, Users, Calculator } from 'lucide-react';
 
 const ROICalculator = () => {
